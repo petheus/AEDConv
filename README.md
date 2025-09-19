@@ -1,5 +1,5 @@
 # AEDConv
-This repository is for the paper "AEDConv: An adaptive edge detection convolution for the classification of arteries and veins in fundus images". The complete code will be provided soon.
+This repository is for the paper "AEDConv: An adaptive edge detection convolution for the classification of arteries and veins in fundus images". The complete code will be available upon acceptance of the manuscript.
 ## Dataset
 The RITE dataset can be obtained from [here](https://medicine.uiowa.edu/eye/rite-dataset).<br>
 The HRF dataset can be obtained from [here](https://www5.cs.fau.de/research/data/fundus-images/)<br>
